@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{0542797C-B809-4FD5-9ECF-0B820649F50F}">
+	<children>
+		<child name="SciexOS_Project" key="{85E91B52-458F-4F1D-9AE5-D2645D6B007A}" path="SciexOS_Project\SciexOS_Project.mds" />
+	</children>
+	<testItems key="{ADCDA773-ED7B-4E01-95F4-EBF3132BCE00}">
+		<children>
+			<testItem key="{85E91B52-458F-4F1D-9AE5-D2645D6B007A}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{93DB6355-7D25-4BAF-A032-0ECE139271FD}" />
+	<analysis key="{4319117B-C885-4265-A723-A71BCEEB0CF4}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}">
+		<CrossBrowserTesting Enable="False" />
+	</extender>
+</Root>
