@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}" version="1400" key="{E55384DD-9796-4E5D-AE9F-8F7BBFE23456}" typeId="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}">
+	<config nodeName="Events" tlbHistory="&quot;TestComplete general events&quot;" />
+	<testData />
+	<data />
+	<children>
+		<child key="{7047E99E-FE12-4F54-8A12-D7A3FD953709}">
+			<config nodeName="EventControl1" lastOpenedTLB="" generatedCLSID="{CD9914FC-DFDC-48FA-9C03-96491952CCC3}" generatedTLBKey="{E2F086E5-8FE4-4931-9CA5-1BF816DA62DF}" generatedEventsKey="{5A9A43B2-FFA7-4257-ABE1-0FA0256D6C05}" generatedTLBDesc="TestComplete EventControl1 Control - 04-12-2020 12:15:45">
+				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743811" infoControlName="General Events" infoEventName="OnLogError" infoEventRealName="OnLogError" infoDescription="Occurs when an error message is posted to the test log." />
+				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743819" infoControlName="General Events" infoEventName="OnOverlappingWindow" infoEventRealName="OnOverlappingWindow" infoDescription="Occurs when an overlapping window appears." />
+				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743818" infoControlName="General Events" infoEventName="OnUnexpectedWindow" infoEventRealName="OnUnexpectedWindow" infoDescription="Occurs when an unexpected window appears." />
+				<eventInfo infoTLBVer="version.dll" infoGUID="{F5856842-4323-49FD-B806-36E22179EF8A}" infoID="1610743808" infoControlName="Test Engine Events" infoEventName="OnStartTest" infoEventRealName="OnStartTest" infoDescription="Occurs when TestComplete starts running a test (whether it is run from the UI or command line, or as a project test item)." />
+				<eventInfo infoTLBVer="version.dll" infoGUID="{F5856842-4323-49FD-B806-36E22179EF8A}" infoID="1610743809" infoControlName="Test Engine Events" infoEventName="OnStopTest" infoEventRealName="OnStopTest" infoDescription="Occurs when TestComplete stops running a test or when the execution of a test item is over." />
+				<handlerInfo handlerName="EventControl1_OnLogError" handlerMoniker="{B5FF52A9-8680-4C76-9FFA-62DEA1920F77}EventControl1_OnLogError" handlerEventName="OnLogError" handlerRealIID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" handlerRealDispID="1610743811" />
+				<handlerInfo handlerName="EventControl1_OnStopTest" handlerMoniker="{B5FF52A9-8680-4C76-9FFA-62DEA1920F77}EventControl1_OnStopTest" handlerEventName="OnStopTest" handlerRealIID="{F5856842-4323-49FD-B806-36E22179EF8A}" handlerRealDispID="1610743809" />
+				<handlerInfo handlerName="EventControl1_OnStartTest" handlerMoniker="{B5FF52A9-8680-4C76-9FFA-62DEA1920F77}EventControl1_OnStartTest" handlerEventName="OnStartTest" handlerRealIID="{F5856842-4323-49FD-B806-36E22179EF8A}" handlerRealDispID="1610743808" />
+				<handlerInfo handlerName="EventControl1_OnOverlappingWindow" handlerMoniker="{B5FF52A9-8680-4C76-9FFA-62DEA1920F77}EventControl1_OnOverlappingWindow" handlerEventName="OnOverlappingWindow" handlerRealIID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" handlerRealDispID="1610743819" />
+				<handlerInfo handlerName="EventControl1_OnUnexpectedWindow" handlerMoniker="{B5FF52A9-8680-4C76-9FFA-62DEA1920F77}EventControl1_OnUnexpectedWindow" handlerEventName="OnUnexpectedWindow" handlerRealIID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" handlerRealDispID="1610743818" />
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>

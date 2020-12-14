@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="SciexScript" key="{43960C66-EDEB-480D-AEEE-074FFD7031BB}" path="SciexScript.sj" />
+		<child name="EventsHandlers" key="{B5FF52A9-8680-4C76-9FFA-62DEA1920F77}" path="EventsHandlers.sj" />
+		<child name="CommonFunctions" key="{CAA842FD-4082-4769-90D7-7BAAE2AABD27}" path="CommonFunctions.sj" />
+		<child name="AllVariables" key="{62AC698D-DD6E-48F0-8E79-5A7FFAFEEDAC}" path="AllVariables.sj" />
+		<child name="Calculator" key="{99BBA7EC-A4B3-46D9-A714-8780BE438C6A}" path="Calculator.sj" />
+	</children>
+</Root>

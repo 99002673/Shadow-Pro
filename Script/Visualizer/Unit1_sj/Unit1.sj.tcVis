@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{DA3B71F1-E3C7-4FCB-9181-B46F1BC7ECB9}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="44172.4206481481" objectName="Aliases.SciexOs.HwndSource_ShellView.ShellView.workspaceRibbonStackPanel2.SplitButton" objectLeft="1359" objectTop="45" objectRight="1480" objectBottom="67" clickPointX="1416" clickPointY="57" imageFileName="tcvi425217000203680.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="44172.4206597222" objectName="Aliases.SciexOs.HwndSource_PopupRoot.PopupRoot.Decorator.NonLogicalAdornerDecorator.ContextMenu_" objectLeft="10" objectTop="10" objectRight="302" objectBottom="262" clickPointX="-1350" clickPointY="-57" imageFileName="tcvi425218406203683.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
